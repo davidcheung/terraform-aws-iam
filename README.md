@@ -1,3 +1,5 @@
+Waiting for https://github.com/terraform-aws-modules/terraform-aws-iam/issues/84 
+
 # AWS Identity and Access Management (IAM) Terraform module
 
 These types of resources are supported:
